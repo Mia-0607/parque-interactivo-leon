@@ -4,3 +4,4 @@ atracciones = [
     'Casa del Terror',
     'Río Lento'
 ]
+atracciones = ['Carros chocones', 'Barco pirata', 'Sillas voladoras']
